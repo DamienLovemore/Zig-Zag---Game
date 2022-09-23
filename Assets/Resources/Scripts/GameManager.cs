@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
             //switches to windowed mode.
             else
             {
-                Screen.SetResolution(840, 607, false);
+                Screen.fullScreenMode = FullScreenMode.Windowed;
             }
         }
     }

@@ -25,8 +25,8 @@ F11 - Toggle between fullscreen and windowed mode.<br>
 
 # Screenshots
 <!-- GAME PROJECT IMAGES -->
-![Preview1](./Images/gameMenu.PNG)
-![Preview2](./Images/gameAction.PNG)
+![Preview1](./Images/gameMenu.png)
+![Preview2](./Images/gameAction.png)
 
 # <!-- GAME PROJECT BUILDS -->
 # Game download
